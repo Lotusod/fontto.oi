@@ -8,7 +8,7 @@
 
     /* ../45K+ Paid And Free A To Z 3600+ Fonts/ */
 
-    @font-face {font-family: '15809';src: url('../45K+ Paid And Free A To Z 3600+ Fonts/15809.ttf') format('truetype');}
+    @font-face {font-family: '15809';src: url('https://github.com/Lotusod/fontto.oi/blob/main/15809.ttf') format('truetype');}
     @font-face {font-family: '&Matchmaker';src: url('../45K+ Paid And Free A To Z 3600+ Fonts/&Matchmaker.ttf') format('truetype');}
     @font-face {font-family: '212 Moon Child Sans';src: url('../45K+ Paid And Free A To Z 3600+ Fonts/212 Moon Child Sans.otf') format('opentype');}
     @font-face {font-family: '28 Days Later';src: url('../45K+ Paid And Free A To Z 3600+ Fonts/28 Days Later.ttf') format('truetype');}

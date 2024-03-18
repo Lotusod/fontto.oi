@@ -10,7 +10,8 @@
 
     @font-face {font-family: '&Matchmaker';src: url('https://raw.githubusercontent.com/Lotusod/fontto.oi/main/%26Matchmaker.ttf') format('truetype');}
 
-    body{line-height: 1.5;margin: 20px;font-size: 50px;text-align: center;}
+    body {line-height: 1.5;margin: 20px;font-size: 50px;text-align: center;background-color: #f0f0f0;margin: 0;padding: 0;}
+    .dashboard {width: 80%;margin: 50px auto;background-color: #fff;padding: 20px;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}
 
 </style>
 </head>
